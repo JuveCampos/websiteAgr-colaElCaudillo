@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+
+<section class="hero">
+        <div class="hero-inner">
+          <h1>Juve Campos</h1>
+          <h2>Blog personal 😎 👨‍💻 </h2>
+        </div>
+</section>
+
+<main class="content" role="main">
+
+<!-- Aca van las chacharas -->
+<!-- <img src="images/hero.jpeg" alt=""> -->
+
+  {{ if .Content }}
+  <article class="article">
+    {{ if .Title }}
+    <h1 class="article-title">{{ .Title }}</h1>
+    {{ end }}
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </article>
+  {{ end }}
+  <div class="archive">
+    {{ $pages := .Pages }}
+    {{ if .IsHome }}
+    {{ $pages = .Site.RegularPages }}
+    {{ end }}
+    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" }}
+    <h2 class="archive-title">{{ .Key }}</h2>
+    {{ range .Pages }}
+    <article class="archive-item">
+      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
+      <span class="archive-item-date">
+        {{ .Date.Format "2006-01-02" }}
+      </span>
+    </article>
+    {{ end }}
+    {{ end }}
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

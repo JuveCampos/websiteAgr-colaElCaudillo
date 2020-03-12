@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/03/03/ejemplos-de-lo-que-se-puede-hacer-en-shiny/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/shiny/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/02/18/distancia-punto-a-linea/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mapas/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tutoriales/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/26/visualizando-pir%C3%A1mides-de-poblaci%C3%B3n-en-r/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/13/tutorial-de-mapas-en-leaflet/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-05T01:42:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sobre_mi/</loc>
+    <lastmod>2020-01-05T01:42:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/blog/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/05/nuestro-primer-post/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+</urlset>
