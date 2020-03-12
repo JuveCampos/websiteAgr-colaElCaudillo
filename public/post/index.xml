@@ -1,65 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Juve Blog</title>
+    <title>Posts on Agrícola El Caudillo</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Juve Blog</description>
+    <description>Recent content in Posts on Agrícola El Caudillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ejemplos de lo que se puede hacer en shiny</title>
-      <link>/2020/03/03/ejemplos-de-lo-que-se-puede-hacer-en-shiny/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <title>El primer blog post del LNPP</title>
+      <link>/2020/03/12/el-primer-blog-post-del-lnpp/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/03/03/ejemplos-de-lo-que-se-puede-hacer-en-shiny/</guid>
-      <description>¿Qué es shiny?
-La librería {shiny} es un paquete de R que nos permite realizar aplicaciones web interactivas a partir de utilizar funciones en el lenguaje R. Al igual que otros paquetes de este lenguaje de programación, como dplyr o ggplot, para usar shiny tenemos que instalarlo desde el CRAN y llamarlo en nuestra sesión de R. Tan simple como eso.
-Shiny es altamente versatil y nos permite hacer páginas web funcionales sin la necesidad de aprender el lenguaje HTML ni las hojas de estilo CSS, lo cual lo hace muy práctico para muchos perfiles de analistas que deseen publicar su trabajo o explorar ideas y que no tienen los recursos para contratar un programador, o que deséen hacerlo por su cuenta.</description>
-    </item>
-    
-    <item>
-      <title>Distancia Punto a Linea</title>
-      <link>/2020/02/18/distancia-punto-a-linea/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/02/18/distancia-punto-a-linea/</guid>
-      <description>h2 {color:red;}iframe{width: 1000px;height: 750px;border: 2px solid #ccc;}p.footnote{color:#5e5e5e;font-size:70%;}La semana pasada, mientras estaba yo muy a gusto en mi trabajo limpiando bases de datos, un amigo mío muy querido (y con quien di un curso hace un par de años) Jesús Carrillo [@ProfeTriste](https://twitter.com/ProfeTriste) me lanzó el siguiente reto:
-Fig. 1 Conversación con JesúsY pues bueno, al terminar la jornada laboral (obviamente 😉) me dediqué a resolver este reto (porque, si bien tenía la idea, nunca había realizado algo similar).</description>
-    </item>
-    
-    <item>
-      <title>Visualizando pirámides de población en R</title>
-      <link>/2020/01/26/visualizando-pir%C3%A1mides-de-poblaci%C3%B3n-en-r/</link>
-      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/26/visualizando-pir%C3%A1mides-de-poblaci%C3%B3n-en-r/</guid>
-      <description>Las pirámides de población (o pirámide demográfica, como le dicen los demógrafos) son un tipo de gráfica que nos permite analizar la distribución de la población por edades en una región determinada (municipio, estado o país).
-Desde el punto de vista gráfico, se trata de un doble histograma de frecuencias, dispuestos de manera horizontal, donde convencionalmente se ponen los grupos de edad masculina a la izquierda y los de poblaciòn femenina a la derecha.</description>
-    </item>
-    
-    <item>
-      <title>Tutorial de mapas en Leaflet</title>
-      <link>/2020/01/13/tutorial-de-mapas-en-leaflet/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/13/tutorial-de-mapas-en-leaflet/</guid>
-      <description>La librería leaflet forma parte de la familia de librerías de los htmlwidgets, y su principal función es la de poder realizar mapas interactivos utilizando lenguaje R. Esta librería traduce nuestros comandos de R a JavaScript, creando una página web con elementos de información geográfica (como puntos, líneas o polígonos), fondos georreferenciados y funciones añadidas (como funciones de interacción con los elementos geográficos o aplicar zoom a zonas de interés).</description>
-    </item>
-    
-    <item>
-      <title>Nuestro primer Post</title>
-      <link>/2020/01/05/nuestro-primer-post/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/05/nuestro-primer-post/</guid>
-      <description>Primer Post de la página. Hacer un blog es una idea que había estado rondandome la cabeza durante ya un año, a inicios del 2019, cuando me comprometí públicamente en un Tweet a hacerlo como uno de mis propósitos de R de año nuevo (tweet al cual el mismo Hadley Wickham le dió RT).
-My #rstats goals for 2019:
-1. Learn how to use Sentiment Analysis 2. Learn how to deal with Twitter Data</description>
+      <guid>/2020/03/12/el-primer-blog-post-del-lnpp/</guid>
+      <description>Holas.
+Este es la primera entrada de blog que hacemos todos en bola. Estoy very proud de estar acá con vosotros! :3</description>
     </item>
     
   </channel>

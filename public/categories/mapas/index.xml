@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mapas on Juve Blog</title>
-    <link>/categories/mapas/</link>
-    <description>Recent content in Mapas on Juve Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/mapas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Distancia Punto a Linea</title>
-      <link>/2020/02/18/distancia-punto-a-linea/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/02/18/distancia-punto-a-linea/</guid>
-      <description>h2 {color:red;}iframe{width: 1000px;height: 750px;border: 2px solid #ccc;}p.footnote{color:#5e5e5e;font-size:70%;}La semana pasada, mientras estaba yo muy a gusto en mi trabajo limpiando bases de datos, un amigo mío muy querido (y con quien di un curso hace un par de años) Jesús Carrillo [@ProfeTriste](https://twitter.com/ProfeTriste) me lanzó el siguiente reto:
-Fig. 1 Conversación con JesúsY pues bueno, al terminar la jornada laboral (obviamente 😉) me dediqué a resolver este reto (porque, si bien tenía la idea, nunca había realizado algo similar).</description>
-    </item>
-    
-    <item>
-      <title>Tutorial de mapas en Leaflet</title>
-      <link>/2020/01/13/tutorial-de-mapas-en-leaflet/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/13/tutorial-de-mapas-en-leaflet/</guid>
-      <description>La librería leaflet forma parte de la familia de librerías de los htmlwidgets, y su principal función es la de poder realizar mapas interactivos utilizando lenguaje R. Esta librería traduce nuestros comandos de R a JavaScript, creando una página web con elementos de información geográfica (como puntos, líneas o polígonos), fondos georreferenciados y funciones añadidas (como funciones de interacción con los elementos geográficos o aplicar zoom a zonas de interés).</description>
-    </item>
-    
-  </channel>
-</rss>

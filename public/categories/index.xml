@@ -1,60 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Juve Blog</title>
+    <title>Categories on Agrícola El Caudillo</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Juve Blog</description>
+    <description>Recent content in Categories on Agrícola El Caudillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>shiny</title>
-      <link>/categories/shiny/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapas</title>
-      <link>/categories/mapas/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/mapas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutoriales</title>
-      <link>/categories/tutoriales/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tutoriales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
